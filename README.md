@@ -14,6 +14,10 @@ The one line to send your younger self: the shortcut costs three years and a fri
 
 It prices the shortcut in the only currency that matters — three years and one good friendship — so the advice isn't a motto, it's a bill already paid. The second clause lands the practical sting: the long road, and no more midnight emails. Specific, hard-won, and warm rather than sentimental.
 
+## The line, unpacked
+
+The line works because it puts a price on the shortcut instead of warning about it in the abstract: three years and one good friendship, paid in full. Then it gives two instructions instead of one — take the long road, and stop answering emails after midnight — and the second one is the detail that makes the advice feel lived-in rather than generic. It is the kind of thing you only write once you have already paid the price. The advice also refuses the easy version of wisdom: it names no lesson, only a price, and leaves the younger self to do the arithmetic.
+
 ## Run it
 
 ```sh
